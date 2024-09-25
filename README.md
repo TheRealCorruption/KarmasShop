@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -90,4 +89,3 @@
     <p class="info-text">If you want to remake a purchase, simply go to your inventory, remove the game pass, and re-buy it!</p>
 
 </body>
-</html>
