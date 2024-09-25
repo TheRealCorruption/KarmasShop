@@ -78,6 +78,7 @@
         <a href="https://www.roblox.com/game-pass/715913214/8k" class="robux-button">8000 Robux</a>
         <a href="https://www.roblox.com/game-pass/715645580/9k" class="robux-button">9000 Robux</a>
         <a href="https://www.roblox.com/game-pass/715959258/10k" class="robux-button">10000 Robux</a>
+        </P>If you want to remake a purchase, simply go to your inventory remove the gamepass and re-buy it!<P>
     </div>
 
 </body>
