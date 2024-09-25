@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -48,11 +49,17 @@
         .robux-button:active {
             background-color: #006400;
         }
+
+        .info-text {
+            margin-top: 20px;
+            text-align: center;
+            color: #555;
+        }
     </style>
 </head>
 <body>
 
-    <h1>Robux</h1>
+    <h1>Robux Shop</h1>
 
     <div class="button-container">
         <a href="https://www.roblox.com/game-pass/734003161/2" class="robux-button">2 Robux</a>
@@ -78,7 +85,9 @@
         <a href="https://www.roblox.com/game-pass/715913214/8k" class="robux-button">8000 Robux</a>
         <a href="https://www.roblox.com/game-pass/715645580/9k" class="robux-button">9000 Robux</a>
         <a href="https://www.roblox.com/game-pass/715959258/10k" class="robux-button">10000 Robux</a>
-        </P>If you want to remake a purchase, simply go to your inventory remove the gamepass and re-buy it!<P>
     </div>
 
+    <p class="info-text">If you want to remake a purchase, simply go to your inventory, remove the game pass, and re-buy it!</p>
+
 </body>
+</html>
