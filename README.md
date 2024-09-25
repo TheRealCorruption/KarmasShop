@@ -52,7 +52,7 @@
 </head>
 <body>
 
-    <h1>Karma's Shop</h1>
+    <h1>Robux</h1>
 
     <div class="button-container">
         <a href="https://www.roblox.com/game-pass/734003161/2" class="robux-button">2 Robux</a>
