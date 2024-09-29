@@ -102,7 +102,7 @@
         <h2>[ File Purchases ]</h2>
         <p class="info-text">Roblox Game files</p>
         <div class="button-container">
-            <a href="https://example.com/v4-high-quality" class="file-button">V4</a> <!-- Add the correct link for the file here -->
+            <a href="https://therealcorruption.github.io/404/" class="file-button">V4</a> <!-- Add the correct link for the file here -->
         </div>
         <p class="info-text">Quality Determines Price in Robux.</p>
     </div>
