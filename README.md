@@ -101,11 +101,11 @@
 
     <div class="section">
         <h2>[ File Purchases ]</h2>
-        <p class="info-text">C Roblox Game files</p>
+        <p class="info-text">Roblox Game files</p>
         <div class="button-container">
             <a href="https://example.com/v4-high-quality" class="file-button">V4</a> <!-- Add the correct link for the file here -->
         </div>
-        <p class="info-text">C File: Quality Determines Robux Robux</p>
+        <p class="info-text">File: Quality Determines Price in Robux.</p>
     </div>
 
     <p class="info-text">If you want to remake a purchase, simply go to your inventory, remove the game pass, and re-buy it!</p>
