@@ -68,8 +68,6 @@
 </head>
 <body>
 
-    <h1>Karma's Shop</h1>
-
     <div class="section">
         <h2>[ Donations ]</h2>
         <div class="button-container">
